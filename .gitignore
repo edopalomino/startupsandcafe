@@ -1,0 +1,56 @@
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Dependencias (si usas Node.js en el futuro)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de build (si los generas)
+dist/
+build/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Archivos de audio temporales o de prueba
+*.mp3.tmp
+*.wav.tmp
+test-audio/
+
+# Archivos de respaldo
+*.bak
+*.backup
