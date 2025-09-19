@@ -1,8 +1,5 @@
-[
-    {
-        "episodio": 1,
-        "titulo": "Eficiencia, IA y Nuevos Negocios",
-        "descripcion": "Este episodio explora cómo la tecnología, desde la inteligencia artificial hasta las soluciones FinTech para escuelas, está creando nuevas oportunidades de negocio en México al enfocarse en la eficiencia y la resolución de problemas operativos.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    }
-]
+{
+  "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758290782/super-happy-dev/shd-2025-09-19-ff13658e-6fa7-4421-a083-eb08f556da68.wav",
+  "titulo": "Desbloquea tu Mente: Neurociencia del Aprendizaje",
+  "descripcion": "Una experta en neuroplasticidad explica las bases biológicas de cómo aprende el cerebro, desmiente mitos comunes y ofrece consejos prácticos para mejorar la memoria y la retención de información."
+}
