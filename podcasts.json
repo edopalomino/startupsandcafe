@@ -1,8 +1,14 @@
 [
-    {
-        "episodio": 1,
-        "titulo": "Eficiencia, IA y Nuevos Negocios",
-        "descripcion": "Este episodio explora cómo la tecnología, desde la inteligencia artificial hasta las soluciones FinTech para escuelas, está creando nuevas oportunidades de negocio en México al enfocarse en la eficiencia y la resolución de problemas operativos.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    }
+  {
+    "episodio": 1,
+    "titulo": "Eficiencia, IA y Nuevos Negocios",
+    "descripcion": "Este episodio explora cómo la tecnología, desde la inteligencia artificial hasta las soluciones FinTech para escuelas, está creando nuevas oportunidades de negocio en México al enfocarse en la eficiencia y la resolución de problemas operativos.",
+    "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
+  },
+  {
+    "episodio": 2,
+    "titulo": "IA Generativa: Creatividad, Herramientas y Desafíos Éticos",
+    "descripcion": "Este episodio explora cómo usar la Inteligencia Artificial Generativa para crear contenido como guiones o logos, analizando tanto las herramientas disponibles como los desafíos éticos y de derechos de autor.",
+    "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758291359/super-happy-dev/shd-2025-09-19-255ba7bd-a4d2-48a5-9c90-bf10ef2edd4b.wav"
+  }
 ]
