@@ -1,32 +1,8 @@
 [
     {
         "episodio": 1,
-        "titulo": "El Futuro de la Inteligencia Artificial",
-        "descripcion": "Exploramos las últimas tendencias en IA y cómo está transformando nuestro mundo. Discutimos machine learning, deep learning y las implicaciones éticas de estas tecnologías emergentes.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    },
-    {
-        "episodio": 2,
-        "titulo": "Blockchain y Criptomonedas: Más Allá del Bitcoin",
-        "descripcion": "Un análisis profundo de la tecnología blockchain y su potencial para revolucionar diferentes industrias. Hablamos sobre DeFi, NFTs y el futuro de las finanzas descentralizadas.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    },
-    {
-        "episodio": 3,
-        "titulo": "Ciberseguridad en la Era Digital",
-        "descripcion": "Consejos esenciales para proteger tu información personal y empresarial en internet. Cubrimos las amenazas más comunes y las mejores prácticas de seguridad digital.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    },
-    {
-        "episodio": 4,
-        "titulo": "El Metaverso: Realidad Virtual y Aumentada",
-        "descripcion": "Descubre cómo las tecnologías de VR y AR están creando nuevos mundos digitales. Analizamos las oportunidades de negocio y los desafíos técnicos del metaverso.",
-        "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
-    },
-    {
-        "episodio": 5,
-        "titulo": "Computación Cuántica: La Próxima Revolución",
-        "descripcion": "Una introducción accesible a la computación cuántica y su potencial para resolver problemas complejos que las computadoras tradicionales no pueden manejar.",
+        "titulo": "Eficiencia, IA y Nuevos Negocios",
+        "descripcion": "Este episodio explora cómo la tecnología, desde la inteligencia artificial hasta las soluciones FinTech para escuelas, está creando nuevas oportunidades de negocio en México al enfocarse en la eficiencia y la resolución de problemas operativos.",
         "url": "https://res.cloudinary.com/deeqmbkhc/video/upload/v1758224365/super-happy-dev/shd-2025-09-18-01fddf96-a533-46b8-9e80-53a713480812.wav"
     }
 ]

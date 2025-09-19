@@ -63,7 +63,6 @@ function renderEpisodes() {
                 <button class="play-btn" onclick="playEpisode('${episode.url}', '${episode.titulo}')">
                     ► Reproducir
                 </button>
-                <span class="duration">~45 min</span>
             </div>
         </div>
     `).join('');
